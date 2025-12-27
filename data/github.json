@@ -1,0 +1,226 @@
+[
+    {
+      "name": "anime-subtitle-chatbot-trax",
+      "description": "Transformer-based anime subtitle chatbot implementation using Trax. 🤖 Trains on a parallel corpus of anime subtitles to generate contextual responses. 💬 Features customizable hyperparameters including hidden layers, embedding dimensions, attention heads, and dropout. 🎛️",
+      "html_url": "https://github.com/waifuai/anime-subtitle-chatbot-trax",
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "book-generator",
+      "description": "Generates books in Markdown using Google's Gemini or OpenRouter's LLMs 🎉. Handles dynamic table of contents creation from JSON, error management, and file organization within a \"books\" directory 📚. Includes pause/modify TOC functionality and chapter/subchapter generation based on user prompts ✍️.",
+      "html_url": "https://github.com/waifuai/book-generator",
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "crypto-simulation",
+      "description": "Simulates token economies focusing on bonding curves, airdrops, affiliate systems, and resource markets. Features dynamic bonding curve parameter optimization, agent-based modeling, and various airdrop strategies with vesting. 💎 Includes economic analysis tools like Gini coefficient and price volatility. 📈",
+      "html_url": "https://github.com/waifuai/crypto-simulation",
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "function-graph-generator",
+      "description": "This tool generates and visualizes function call graphs from source code. 🛠️ It extracts function definitions and calls to build a directed graph, representing dependencies.💎 Configurable filters for external, recursive, and childless functions enhance analysis.✨ Interactive graphs (using a spring layout) facilitate exploration. ↔️",
+      "html_url": "https://github.com/waifuai/function-graph-generator",
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "llm-text-queue-gpu",
+      "description": "DistilGPT2-based text generation service with request queuing via Redis. 🥳 Includes Flask API for prompt submission and GPU support for accelerated inference. 🚀 Features a health check endpoint and robust error handling. 💪 Prioritizes concurrent request management, ensuring efficient text generation. 🎉",
+      "html_url": "https://github.com/waifuai/llm-text-queue-gpu",
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "llms-full-html",
+      "description": "This repository provides a script to generate a single, comprehensive HTML file (llms-full.html) for AI LLMs. 🎉 It aggregates project documentation and code from various file types (.md, .py, .js, etc.) into one place. 📍 The script uses utils.py for safe file reading, supporting UTF-8 and Latin-1 encodings.💯",
+      "html_url": "https://github.com/waifuai/llms-full-html",
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "llms-full-txt",
+      "description": "This repository provides tools for generating llms-full.txt files, a proposed standard to improve documentation accessibility for LLMs. 💡 It aggregates project documentation and code into a single, AI-friendly Markdown file. 📄 Includes utilities for generating a table of contents 🧭, counting lines of code ➕, and counting characters within code🌟",
+      "html_url": "https://github.com/waifuai/llms-full-txt",
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "macro-language-model",
+      "description": "Chatbot framework for simulating anime \"waifu\" personalities (deres) 🌸. Uses keyword/transformation-based responses, memory, and affection levels 💖. Supports dynamic dere type switching and topic management 💬. Features interactive, auto, and Gemini API modes 🎉. Includes customizable responses and conversation context tracking 🌟.",
+      "html_url": "https://github.com/waifuai/macro-language-model",
+      "language": "Python",
+      "stargazers_count": 2
+    },
+    {
+      "name": "mcp-solana-affiliate",
+      "description": "Solana ICO affiliate system 🤝, independent of the main ICO server. Registers affiliates, generating unique IDs & Solana Blink URLs via FastMCP. Proxies token purchases 🛒, records commissions 💰 (affiliate ID, ICO ID, amount, client IP) to JSON, and returns serialized transactions. Built as a Flask proxy.",
+      "html_url": "https://github.com/waifuai/mcp-solana-affiliate",
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "mcp-solana-ico",
+      "description": "Decentralized 🪙 ICO launchpad & in-memory DEX on Solana. Supports multiple ICOs 🚀 with configurable bonding curves (fixed, linear, exponential, sigmoid, custom). Implements sell fees, order management (create/cancel/execute), and basic token utility (discount). Dynamic ICO creation via JSON config, rate limiting, & transaction validation.",
+      "html_url": "https://github.com/waifuai/mcp-solana-ico",
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "mcp-solana-internet",
+      "description": "Solana-based micropayment server using MCP. 💰 Facilitates direct SOL transfers for resource access control via a Flask API. 🔑 Returns solana-action: URIs for unsigned transactions, validated on-chain. ✅ Includes robust transaction checks, resource pricing, and basic access management. 🧪",
+      "html_url": "https://github.com/waifuai/mcp-solana-internet",
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "mcp-traits-matcher",
+      "description": "Personality analysis server using the FastMCP framework. ✨ It manages persons and traits in SQLite databases, enabling personality updates based on descriptions. 💻 Supports creating persons/traits, and finding candidates matching a job description using Euclidean distance. 📐",
+      "html_url": "https://github.com/waifuai/mcp-traits-matcher",
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "mcp-waifu-chat",
+      "description": "FastMCP server for a conversational AI waifu. 🤖 Manages users, dialog history (get/set/reset), and basic chat. 💬 Uses SQLite for persistence and includes comprehensive testing. ✅ Configuration via .env file supports custom AI model URL. 🌐 Modular design for extensions, currently includes a mocked AI response function. 👍",
+      "html_url": "https://github.com/waifuai/mcp-waifu-chat",
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "mcp-waifu-queue",
+      "description": "Asynchronous text generation service built around the distilgpt2 model, exposing an MCP-compliant API via FastMCP 🤖. It utilizes a Redis queue and worker setup for managing requests, with GPU support for accelerated inference ⚡. Configuration is handled through environment variables, ensuring flexibility and deployment readiness ⚙️.",
+      "html_url": "https://github.com/waifuai/mcp-waifu-queue",
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "paraphrase-back-translate",
+      "description": "CLI tool for back-translation paraphrasing, leveraging Trax models.🔁 Supports English and French, enabling multiple cycles of translation for paraphrase generation. 🔄 Manages input/output files, model loading, and logging of progress via TensorBoard.📊 Includes a dummy translation mode for testing.🧪 Has file handling, and custom logging. 📁",
+      "html_url": "https://github.com/waifuai/paraphrase-back-translate",
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "paraphrase-gan",
+      "description": "Trax-based GAN for paraphrase generation 🤖. Implements a continuous training loop using Transformer models for generator and discriminator roles 🔁. Includes robust data preparation, error handling, and logging 📝. Features initial model training with retries, and iterative refinement of the generator 💡 based on discriminator feedback.",
+      "html_url": "https://github.com/waifuai/paraphrase-gan",
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "paraphrase-gan-utils",
+      "description": "This repository provides implementations for training Transformer models for paraphrase generation. 📝 It supports both character-level and word-level models using the MS COCO Captions dataset. 🖼️ Additionally, it includes multicore processing capabilities for the ParaBank dataset, optimizing training efficiency. 🚀",
+      "html_url": "https://github.com/waifuai/paraphrase-gan-utils",
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "paraphrase-human-sentence-classifier",
+      "description": "Deep learning classifier using Trax library to distinguish human-generated sentences from machine-generated (paraphrased) ones. ✍️ Utilizes Transformer architecture with subword or character tokenization. Data preparation via TSV files, training, and confusion matrix evaluation are supported. ➕ Includes a training script using problem.py. ⚙️",
+      "html_url": "https://github.com/waifuai/paraphrase-human-sentence-classifier",
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "paraphrase-neural-machine-translation",
+      "description": "Encoder-decoder NMT model for English paraphrase generation, using an architecture with attention. 🚀 It leverages GRUs, and TensorFlow 2.x, trained on Parabank 100k. 💾 Includes modular code, efficient tf.data preprocessing, attention visualization, and TensorBoard integration. 📈 The data processing filters, prepares and then tokenizes sentences.",
+      "html_url": "https://github.com/waifuai/paraphrase-neural-machine-translation",
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "quantum-circuit-optimization",
+      "description": "Explores quantum circuit optimization using classical and quantum ML. Includes data generation (Cirq circuits), and model training (TensorFlow DNNs, DCNs, and Trax Transformer for seq2seq optimization). Focuses on hybrid classical-quantum approaches, combining DNNs with Cirq's optimizers.",
+      "html_url": "https://github.com/waifuai/quantum-circuit-optimization",
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "ransoc",
+      "description": "Algorithm for balancing relevance and exploration in search. 👍 Dynamically adjusts result weights based on user interaction, promoting less-prominent results without sacrificing query relevance. 💯 Uses a gravitational analogy, conceptualizing search results as planets with masses. 🪐 Includes visualization tools for state. ✨",
+      "html_url": "https://github.com/waifuai/ransoc",
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "research-text",
+      "description": "Explores advanced concepts in quantum computing, tokenomics, and AI 🚀. Includes implementations of bonding curves, agent-based simulations 💸, dynamic pricing, and multimodal data handling 🧮, plus kinematic equations 💫, with an emphasis on formal mathematical models 🧪.",
+      "html_url": "https://github.com/waifuai/research-text",
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "sim-affiliate",
+      "description": "Simulates a token economy with dynamic bonding curves (Linear, Exponential, Sigmoid, Root, Inverse) and an affiliate system. Features automated curve switching, adjustable affiliate commission rates (0-20%) 💰, and whale affiliates 🐳. Includes transaction fees, token burns🔥, and detailed tracking of prices, supply, and earnings 📈.",
+      "html_url": "https://github.com/waifuai/sim-affiliate",
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "sim-airdrop",
+      "description": "Simulator for diverse token airdrop strategies, evaluating impact on price and supply. 🚀 Includes dynamic vesting (price-triggered, activity-based, linear) and market simulation with user archetypes (HODLers, speculators). ⚖️ Features gas fees, whale detection, and token burning. 🔬 Analyzes tiered, lottery, and uniform distributions. 🎁",
+      "html_url": "https://github.com/waifuai/sim-airdrop",
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "sim-bonding-curve",
+      "description": "Simulates tokenomics with autonomous agents interacting via various bonding curves (linear, exponential, sigmoid, multi-segment). 💸 Agents trade based on price-trend analysis and configurable strategies. 🧑‍💻 Includes parameter optimization (random search) to minimize price volatility. 📈",
+      "html_url": "https://github.com/waifuai/sim-bonding-curve",
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "sim-mcp-token",
+      "description": "Agent-based economic simulation exploring resource allocation, pricing, and wealth distribution. 💰 Features autonomous agents, resource dynamics, and economic policies like taxes. 💸 Includes parameter experimentation (price elasticity, regen rates, taxes, expenses) and analysis (Gini, bankruptcies). 📊",
+      "html_url": "https://github.com/waifuai/sim-mcp-token",
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "solana-ico",
+      "description": "CLI tool for Solana ICO management and interaction.🎁 Includes functions for initializing ICOs, buying/selling tokens using a linear bonding curve, and managing an escrow. 🎉 Supports resource access control features. 🎊 Provides tokenomics info, balance checks, and SOL transfers. 🎈 Uses PDAs for state management. 💯",
+      "html_url": "https://github.com/waifuai/solana-ico",
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "street-lines",
+      "description": "Generates parking rectangles along a street segment. 📐 Input: bounding box coordinates. Output: GeoJSON of rectangles. Uses local Cartesian (ENU) projection, rotation, and geographic normalization (WGS 84). 🌍 Includes error analysis, derivation, and validation. ✨ Implements CLI for coordinate input. 💻",
+      "html_url": "https://github.com/waifuai/street-lines",
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "traits",
+      "description": "CLI tool for personality-based candidate matching. 🧑‍💼 Analyzes job descriptions and person profiles using trait-based weighted averages and Euclidean distance. 📏 Features dynamic personality updates and database storage for traits (friendliness, dominance) and persons. 💾 Includes CLI for creating/listing traits, persons, and matching company💼",
+      "html_url": "https://github.com/waifuai/traits",
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "waifu-chat-api",
+      "description": "Flask API for a conversational AI \"Waifu\" character. 🤖 Supports user & dialog management, and server status checks. 📡 Features include creating, reading, updating, deleting users & dialog. 💾 Implements dialog history as JSON or string. 💬 Dialog conversion utilities using regex are included. 🔄",
+      "html_url": "https://github.com/waifuai/waifu-chat-api",
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "waifu-llm-vrm",
+      "description": "Establishes Python-Godot communication for controlling AI characters. 🚀 Implements a basic chatbot framework and provides classes for character and VRM model management. 🎉 Includes methods for sending commands, handling events, playing animations, and setting expressions. 🎭 Supports two way communication via sockets or godot-rl. 🔗",
+      "html_url": "https://github.com/waifuai/waifu-llm-vrm",
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "web-apps",
+      "description": "Collection of interactive web apps focused on advanced topics. Includes simulations for tokenomics, bonding curves, quantum computing, AI agents, and the Orch-OR theory🎉. Features Solana ecosystem tools, and decentralized science applications✨. Also explores concepts like superintelligence, string theory, and consciousness💖.",
+      "html_url": "https://github.com/waifuai/web-apps",
+      "language": "Python",
+      "stargazers_count": 1
+    }
+  ]
